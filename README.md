@@ -1,7 +1,5 @@
-#  Celestium
-
 <p align="center">
-  <img src="./client/public/here-banner.png" alt="Celestium Banner" width="100%" />
+  <img src="./client/public/metaverse.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -18,72 +16,50 @@
 
 # 🚀 Overview
 
-Celestium is an immersive decentralized metaverse and blockchain gaming ecosystem built with modern Web3 technologies.
+This is an immersive decentralized metaverse and blockchain gaming ecosystem built with modern Web3 technologies, a **Poker@ESports** that integrates staking, casino-style gaming, sports betting, and education into a single blockchain-powered ecosystem.
 
 The platform combines multiplayer gameplay, NFT ownership, blockchain integration, AI systems, and real-time interactions to create a scalable next-generation gaming experience.
 
-Celestium enables players to:
+### Core Features
+>✅ **Staking:** Lock PA tokens (and other supported assets) to earn rewards while funding the platform's gaming economy.        
+>✅ **Gaming:** Casino-style games like roulette, slots, and prize wheels keep players engaged with quick, excitinh gameplay     
+>✅ **Sports Betting:** Covers live and upcoming events, offering competitive odds and multiple bet types.                       
+>✅ **Academy:** An interative learning hub teaching Crypto basics, platform mechanics, and risk management to onboard newcomers.
 
-- 🌍 Explore virtual worlds
-- 🎮 Play multiplayer games
-- 🪙 Own blockchain-based assets
-- 💰 Trade NFTs
-- 🔗 Connect Solana wallets
-- ⚡ Interact in real-time environments
-
----
-
-# ✨ Features
-
-- 🌌 Open World Metaverse
-- 🎮 Multiplayer Gameplay
-- 🔗 Solana Wallet Integration
-- 🪙 NFT Asset Ownership
-- 🛒 NFT Marketplace
-- ⚡ Real-Time Multiplayer Sync
-- 💬 Live Chat & Social Features
-- 🏆 Global Leaderboards
-- 📊 Player Statistics
-- 🤖 AI-Powered Systems
-- 🎨 Modern Responsive UI
-- ☁️ Cloud-Ready Infrastructure
-- 🐳 Docker Deployment Support
+The goal is to create an **all-in-one hub** where players can **play, earn, and learn** without hopping between multiple platforms.
 
 ---
 
-# 🧠 Tech Stack
 
-## Frontend
-- React 19
-- Next.js 16
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Three.js
-- Babylon.js
+## Demo Version
+The demo highlights:
+>✅ **Staking Dashboard** – Simulated staking with reward tracking.               
+>✅ **Mini Games Preview** – Early builds of roulette, slots, and spin-the-wheel. <br>
+>✅ **Sports Betting UI** – Mock-up with odds feeds and betting slip preview.     
+>✅ **Academy Hub** – Interactive tutorials and gamified quizzes.                 
 
-## Backend
-- Node.js
-- Express.js
-- Socket.IO
-- TypeScript
-
-## Blockchain
-- Polygon
-- Web3.js
-- Wallet Adapter
-
-## Database
-- MongoDB
-- Redis
-
-## DevOps
-- Docker
-- AWS
-- Vercel
-- GitHub Actions
+**Note:** This demo uses **testnet contracts** and mock data for demonstration. It is **not connected to mainnet or real funds**.
 
 ---
+
+### Staking Dashboard
+![Staking Dashboard](./client/public/Screenshot_3.png)  
+*Lock Game tokens and monitor rewards in real-time.*
+
+### Game Lobby
+![Game Lobby](./client/public/Screenshot_4.png)  
+*Casino-style game previews including roulette, slots, and prize wheel.*
+
+---
+
+## Tech Stack
+>✅ **Frontend** – React / Next.js / TailwindCSS              
+>✅ **Blockchain** – Solidity / Hardhat / Ethers.js           
+>✅ **Backend** – Node.js / TypeScript / PostgreSQL / Redis   
+>✅ **Games** – Phaser.js / Unity / WebGL                     
+>✅ **Sports Data** – Integrated via 3rd-party APIs           
+>✅ **Enterprise Layer** – SettleMint BCDB middleware       
+
 
 # 📁 Project Structure
 
@@ -162,8 +138,8 @@ Before starting, install the following:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/CelestiumWorkHub/CelestiumVerse.git
-cd celestium
+git clone repository
+cd directory
 ```
 
 ---
@@ -219,7 +195,7 @@ http://localhost:7777
 
 # 🔗 Wallet Integration
 
-Celestium supports:
+supports:
 
 - MetaMask Wallet
 - Coinbase Wallet
@@ -267,7 +243,7 @@ Players can securely:
 
 # 🔐 Security
 
-Celestium follows modern Web3 security practices:
+This follows modern Web3 security practices:
 
 - Wallet-based authentication
 - Encrypted sessions
@@ -330,17 +306,7 @@ MIT License
 
 # 👨‍💻 Developer
 
-Built with passion by the Celestium Team.
-
----
-
-# 📬 Contact
-
-## GitHub
-
-```text
-https://github.com/CelestiumWorkHub/CelestiumVerse
-```
+Built with passion by the Our Team.
 
 ---
 
