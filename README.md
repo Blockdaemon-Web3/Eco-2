@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./client/public/metaverse.png" alt="Banner" width="100%" />
+  <img src="./client/public/jackpot/1.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -42,14 +42,16 @@ The demo highlights:
 
 ---
 
-### Staking Dashboard
-![Staking Dashboard](./client/public/Screenshot_3.png)  
+### Online Casino Startup
+![Staking Dashboard](./client/public/jackpot/4.png)  
 *Lock Game tokens and monitor rewards in real-time.*
 
-### Game Lobby
-![Game Lobby](./client/public/Screenshot_4.png)  
+### 7 Proven Ways
+![Game Lobby](./client/public/jackpot/5.png)  
 *Casino-style game previews including roulette, slots, and prize wheel.*
 
+### Must-Have Features
+![Game Lobby](./client/public/jackpot/8.png) 
 ---
 
 ## Tech Stack
