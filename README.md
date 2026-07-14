@@ -14,7 +14,7 @@
 
 ---
 
-# 🚀 OverView
+# 🚀 Overview
 
 This is an immersive decentralized metaverse and blockchain gaming ecosystem built with modern Web3 technologies, a **Poker@ESports** that integrates staking, casino-style gaming, sports betting, and education into a single blockchain-powered ecosystem.
 
