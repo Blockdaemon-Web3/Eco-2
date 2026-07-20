@@ -1,67 +1,65 @@
-<p align="center">
-  <img src="./client/public/jackpot/1.png" alt="Banner" width="100%" />
-</p>
+#  🌐 Blockdaemon Eco-v2 Platform
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-v22-brightgreen" />
-  <img src="https://img.shields.io/badge/React-18-blue" />
-  <img src="https://img.shields.io/badge/Next.js-14-black" />
-  <img src="https://img.shields.io/badge/TypeScript-5-blue" />
-  <img src="https://img.shields.io/badge/Web3-Solana-purple" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3-cyan" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-</p>
+
+# 🚀 Overview
+
+This is a multi-utility Web3 platform that brings together staking, gaming, sports betting, and education into a single ecosystem.
+The goal is to create an all-in-one hub where users can play, earn, and learn without switching between multiple platforms.
+This platform will have strong AI assistance, it will help users to enjoy the game and get recommendation from AI.
 
 ---
 
-# 🚀 OverView
+# ✨ Features
 
-This is an immersive decentralized metaverse and blockchain gaming ecosystem built with modern Web3 technologies, a **Poker@ESports** that integrates staking, casino-style gaming, sports betting, and education into a single blockchain-powered ecosystem.
-
-The platform combines multiplayer gameplay, NFT ownership, blockchain integration, AI systems, and real-time interactions to create a scalable next-generation gaming experience.
-
-### Core Features
->✅ **Staking:** Lock PA tokens (and other supported assets) to earn rewards while funding the platform's gaming economy.        
->✅ **Gaming:** Casino-style games like roulette, slots, and prize wheels keep players engaged with quick, excitinh gameplay     
->✅ **Sports Betting:** Covers live and upcoming events, offering competitive odds and multiple bet types.                       
->✅ **Academy:** An interative learning hub teaching Crypto basics, platform mechanics, and risk management to onboard newcomers.
-
-The goal is to create an **all-in-one hub** where players can **play, earn, and learn** without hopping between multiple platforms.
-
----
-
-
-## Demo Version
-The demo highlights:
->✅ **Staking Dashboard** – Simulated staking with reward tracking.               
->✅ **Mini Games Preview** – Early builds of roulette, slots, and spin-the-wheel. <br>
->✅ **Sports Betting UI** – Mock-up with odds feeds and betting slip preview.     
->✅ **Academy Hub** – Interactive tutorials and gamified quizzes.                 
-
-**Note:** This demo uses **testnet contracts** and mock data for demonstration. It is **not connected to mainnet or real funds**.
+- 🌌 Open World Metaverse
+- 🎮 Multiplayer Gameplay
+- 🔗 Solana Wallet Integration
+- 🪙 NFT Asset Ownership
+- 🛒 NFT Marketplace
+- ⚡ Real-Time Multiplayer Sync
+- 💬 Live Chat & Social Features
+- 🏆 Global Leaderboards
+- 📊 Player Statistics
+- 🤖 AI-Powered Systems
+- 🎨 Modern Responsive UI
+- ☁️ Cloud-Ready Infrastructure
+- 🐳 Docker Deployment Support
 
 ---
 
-### Online Casino Startup
-![Staking Dashboard](./client/public/jackpot/4.png)  
-*Lock Game tokens and monitor rewards in real-time.*
+# 🧠 Tech Stack
 
-### 7 Proven Ways
-![Game Lobby](./client/public/jackpot/5.png)  
-*Casino-style game previews including roulette, slots, and prize wheel.*
+## Frontend
+- React 19
+- Next.js 16
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Three.js
+- Babylon.js
 
-### Must-Have Features
-![Game Lobby](./client/public/jackpot/8.png) 
+## Backend
+- Node.js
+- Express.js
+- Socket.IO
+- TypeScript
+
+## Blockchain
+- Polygon
+- Web3.js
+- Wallet Adapter
+
+## Database
+- MongoDB
+- Redis
+
+## DevOps
+- Docker
+- AWS
+- Vercel
+- GitHub Actions
+
 ---
-
-## Tech Stack
->✅ **Frontend** – React / Next.js / TailwindCSS              
->✅ **Blockchain** – Solidity / Hardhat / Ethers.js           
->✅ **Backend** – Node.js / TypeScript / PostgreSQL / Redis   
->✅ **Games** – Phaser.js / Unity / WebGL                     
->✅ **Sports Data** – Integrated via 3rd-party APIs           
->✅ **Enterprise Layer** – SettleMint BCDB middleware       
-
 
 # 📁 Project Structure
 
@@ -135,30 +133,6 @@ Before starting, install the following:
 
 ---
 
-# 🚀 Quick Start
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone repository
-cd directory
-```
-
----
-
-## 2️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-or
-
-```bash
-yarn install
-```
-
-
 # ▶️ Run Development Servers
 
 ## Start Backend
@@ -197,7 +171,7 @@ http://localhost:7777
 
 # 🔗 Wallet Integration
 
-supports:
+We supports:
 
 - MetaMask Wallet
 - Coinbase Wallet
@@ -245,7 +219,7 @@ Players can securely:
 
 # 🔐 Security
 
-This follows modern Web3 security practices:
+We follows modern Web3 security practices:
 
 - Wallet-based authentication
 - Encrypted sessions
@@ -308,7 +282,7 @@ MIT License
 
 # 👨‍💻 Developer
 
-Built with passion by the Our Team.
+Built with passion by the our Team.
 
 ---
 
@@ -334,5 +308,5 @@ Users are responsible for compliance with local blockchain and digital asset reg
 ---
 
 <p align="center">
-  🌌 Built for the Future of Web3 Gaming 🚀
+  🌌 Built for the Future of Web3 Project 🚀
 </p>
