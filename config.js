@@ -15,7 +15,5 @@ module.exports = {
 
 
 
-  wertwertwerw
-
 
   
